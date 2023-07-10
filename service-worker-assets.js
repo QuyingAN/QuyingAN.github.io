@@ -25,11 +25,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-hBnpPiFFrAam+XwO\/Zc5X14Z8XEh\/u4+UDvtCEwYiVg=",
+      "hash": "sha256-uwLxD21h808xe4J5zj0WiBgtBjRQUylUnDK213lnSXk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-aUTQItqx3LpETJfqVu293IAH0qCBAKb1s7634ZguK3o=",
+      "hash": "sha256-D+6Ze9pXoRSTJ3NFGec2ghBxKA8ZeTL4egfL+LafXcE=",
       "url": "_framework\/blazorgit.dll"
     },
     {
@@ -37,15 +37,15 @@
       "url": "_framework\/ChatGPT.Net.dll"
     },
     {
-      "hash": "sha256-2peRbMvXiUhp7\/5kBPcgzqRxjSKOPRDXYLcA021f28w=",
+      "hash": "sha256-q2rEtP\/v7Gr23nsRI4ykPTGmv7MQZ0vrIUy3uOL+H4o=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-a1LPwmBT0r7F7jjDNaOV\/TbHfHTuSQitRLy+YyOLPkM=",
+      "hash": "sha256-kd3ML1NDwh1nH6JQ+YDmroDlhxIcwTl\/QDdrEA9t8BI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-PTSKKTHwdz5fL0+3rx9EsDSIbwi8jHHDx2mIx2Rxavo=",
+      "hash": "sha256-OrakNul\/lDKtR0peDI7ACWHczyxIgweUpKDU67MMTo8=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -89,11 +89,11 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-MDyXv2LOCRBiedWjjGsO5qugAxFyrN8GEpO48gvCRTQ=",
+      "hash": "sha256-ZUkHnGZuOgmFaoVXkGzTKbw28ooeiR8QB7Tf6ewiMt0=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-GvJxInUwsjF3BeE2f8yKSiyDaZ8qapjihQJiJbgEDp4=",
+      "hash": "sha256-wQKd6BjANPUG9KwhmVpjtOvDwGEVx0ycJ6mrHWRi5Yg=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -349,5 +349,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "Kz7qnYi\/"
+  "version": "SUFqEyFB"
 };
